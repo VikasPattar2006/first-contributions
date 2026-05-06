@@ -1,1 +1,2 @@
 # first-contributions
+- Vikas Pattar
